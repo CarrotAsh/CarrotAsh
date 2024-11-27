@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center" width="300">
+   <h3 align="center">¡Hey 👋! Soy 023javi 👨🏻‍💻</h3>
+</p>
 
-<!--
-**CarrotAsh/CarrotAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   
+   ![023javi's GitHub stats](https://github-readme-stats.vercel.app/api?username=023javi&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,jquery,python,javascript,c,mysql,lua" />
+</div>
