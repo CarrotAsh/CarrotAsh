@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy Ash 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy Ash 👩‍💻👾</h3>
 </p>
 
 <div align="center">
