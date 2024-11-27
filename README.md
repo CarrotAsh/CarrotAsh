@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,jquery,python,javascript,c,mysql,lua" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,c,mysql" />
 </div>
